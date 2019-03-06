@@ -1,0 +1,5 @@
+Los archivos deben estar almacenados dentro de la carpeta htdocs en xampp.
+
+-conexion.php
+-index.php
+-proceso_guardar.php
